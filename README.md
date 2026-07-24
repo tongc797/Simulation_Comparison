@@ -2,6 +2,6 @@ This repository contains all code to replicate simulation results presented in "
 
 Scripts are organized in three folders:<br>
 
-"True Values": contains code to obtain true values of parameters in different models (CLPM, CoT).<br>
-"Simulate Data & Fit Model": contains code to simulate data using process-based or covariance-based simulation, and code for using the simulated data to fit the CLPM or the CoT model.<br>
-"Obtain results": contains code for getting bias, precision, statistical power of all parameters from model fitting results, and code for creating density plots.<br>
+**"True Values":** contains code to obtain true values of parameters in different models (CLPM, CoT).<br>
+**"Simulate Data & Fit Model":** contains code to simulate data using process-based or covariance-based simulation, and code for using the simulated data to fit the CLPM or the CoT model.<br>
+**"Obtain results":** contains code for getting bias, precision, statistical power of all parameters from model fitting results, and code for creating density plots.<br>
