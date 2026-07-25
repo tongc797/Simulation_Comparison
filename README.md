@@ -9,7 +9,7 @@ Scripts are organized in three folders:<br>
 				**CLPM_FT_FitModel.R:** fit the CLPM using data generated from process-based simulation<br>
 				**CLPM_MVN_FitModel.R:** fit the CLPM using data generated from covariance-based simulation<br>
 * **CoT:** this folder contains code for the CoT model<br>
-				**CoT_GE_generate_data.R:** generate data using process-based simulation<br>
+				**CoT_GE_generate_data.R:** generate data using process-based simulation, needs to be run with GeneEnvolve scripts<br>
 				**CoT_GE_FitModel.R:** fit the CoT model using data generated from process-based simulation<br>
 				**CoT_MVN_generate_data_FitModel.R:** this code does two things: first generates data using covariance-based simulation and then fits the CoT model using the data generated
 
